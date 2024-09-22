@@ -16,7 +16,7 @@ function FooterColumn() {
           WebRTC
         </a>
         <a
-          href="https://github.com/mhsh312/video-call-app"
+          href="https://github.com/mhsh312/video-call"
           className="text-sm leading-tight text-slate-500"
         >
           Github Project Link
