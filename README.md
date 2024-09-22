@@ -1,0 +1,1 @@
+This is a WebRTC video calling app that I made for my college minor project. It can only make one-on-one calls as of now but those calls are peer-to-peer so no server in the middle can listen-in on your conversations.
