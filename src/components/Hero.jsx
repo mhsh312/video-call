@@ -58,7 +58,7 @@ export default function Hero() {
       </div>
       <div className="order-first flex w-full flex-1 items-center justify-center bg-slate-50 py-28 md:order-last lg:py-0">
         <img
-          src="https://cdn.discordapp.com/attachments/427097807057584131/1287457979607683092/Cheese_on_deez_nuts.png?ex=66f19e2e&is=66f04cae&hm=be0a2de00d9223c28da70a44b13c5d5fb0e1a3c2b1222d43324791bab7a9c314&"
+          src="https://i.imgur.com/bGGTS1c.png"
           alt=""
           width={183}
           height={345}

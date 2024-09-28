@@ -29,7 +29,7 @@ function Video({ sender, stream, className }) {
         ref={videoRef}
         className={className}
         muted={sender || mute}
-        poster="https://cdn.discordapp.com/attachments/427097807057584131/1284544029584785452/loading.gif?ex=66e7045a&is=66e5b2da&hm=a61765a14a32281c77f15e7f493cc9d1cca7c3a70463c32b8859ec248754e002&"
+        poster="https://i.imgur.com/aVXTCul.gif"
         autoPlay
         playsInline
         disablePictureInPicture
